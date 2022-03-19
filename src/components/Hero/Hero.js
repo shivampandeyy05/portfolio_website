@@ -9,12 +9,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Hi there, I'm<br />
+          Shivam pandey.
         </SectionTitle>
         <SectionText>
-        Hi, My name is Shivam pandey.<br/> 
-        The purpose is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        <h6>A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.</h6>
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
