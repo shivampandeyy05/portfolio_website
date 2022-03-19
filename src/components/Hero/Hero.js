@@ -4,7 +4,9 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+
 const Hero = (props) => (
+  
   <>
     <Section row nopadding>
       <LeftSection>
@@ -15,7 +17,12 @@ const Hero = (props) => (
         <SectionText>
         <h6>A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.</h6>
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Download CV</Button> */}
+        <Button>
+          <a href="https://drive.google.com/file/d/1T_MwTg9muRWyyrTN2NiidcmvrJcWdu0_/view?usp=sharing" download="CV.pdf" style={{color: "white"}}>
+            Download CV
+          </a>
+        </Button>
       </LeftSection>
     </Section>
   </>
