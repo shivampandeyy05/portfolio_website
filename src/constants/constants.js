@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB, a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description:" Using React and MERN Stack Concepts",
+    description: "",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'WebRTC App',
-    description: "React Video Chat Application using WebRTC.",
+    description: "",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Unichat',
-    description: "A full Realtime Chat Application",
+    description: "",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
