@@ -89,7 +89,7 @@ export const UtilityList = styled.ul`
 `;
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
+color: #2874A6;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
 background: #6b3030;
