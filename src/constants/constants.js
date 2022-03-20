@@ -21,7 +21,7 @@ export const projects = [
     title: 'Personal Portfolio',
     description: "",
       image: '/images/3.png',
-      tags: ['React', 'WebRTC'],
+      tags: ['React', 'Next.Js'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
