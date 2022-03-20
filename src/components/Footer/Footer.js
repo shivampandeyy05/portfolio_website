@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>©2022, Shivampandey.co.in</Slogan>
+          <Slogan>©2022, Shivampandey.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/shivampandeyy05">
