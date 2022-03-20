@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'Crypto Tracker',
     description: "",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
@@ -18,23 +18,23 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
+    title: 'Personal Portfolio',
     description: "",
       image: '/images/3.png',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
-  },
-  {
-    title: 'Unichat',
-    description: "",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
-  },
+  }
+  // // {
+  // //   title: 'Unichat',
+  // //   description: "",
+  // //   image: '/images/4.jpg',
+  // //   tags: ['React', 'ChatEngine', 'Firebase'],
+  // //   source: 'https://google.com',
+  // //   visit: 'https://google.com',
+  // //   id: 3,
+  // // },
 ];
 
 export const TimeLineData = [
