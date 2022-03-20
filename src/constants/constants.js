@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'WebRTC App',
     description: "",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
