@@ -1,12 +1,10 @@
-## Personal Portfolio
+<h3>Responsive personal development portfolio from scratch and makes first impression count. Using React and Next JS.</h3>
 
-### [Live Site](https://jsmasterypro.com)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+<h1>Demo Link.</h1>
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+<a href="https://shivampandey.co.in/"  target="_blank">https://shivampandey.co.in/</a><br /><br />
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+<h1>Home Page.</h1>
 
-Setup:
-- run ```npm i && npm start```
+<a href="https://ibb.co/ZxJFDN1"><img src="https://i.ibb.co/Wf3MJsp/1.png" alt="1" border="0"></a>
