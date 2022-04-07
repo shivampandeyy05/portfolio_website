@@ -19,7 +19,7 @@ const Hero = (props) => (
         </SectionText>
         {/* <Button onClick={props.handleClick}>Download CV</Button> */}
         <Button>
-          <a href="https://drive.google.com/file/d/1T_MwTg9muRWyyrTN2NiidcmvrJcWdu0_/view?usp=sharing" download="CV.pdf" style={{color: "white"}}>
+          <a href="https://drive.google.com/file/d/1X0-t1Ub88asQ_qYf3ANHnwML34YxYeTm/view?usp=sharing" download="CV.pdf" style={{color: "white"}}>
             Download CV
           </a>
         </Button>
